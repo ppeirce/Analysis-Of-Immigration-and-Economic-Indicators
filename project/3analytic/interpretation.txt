@@ -1,0 +1,33 @@
+Key:
+0:	Total for all sectors
+11:	Agriculture, forestry, hunting
+21:	Mining, oil, gas
+22n:	Utilities
+23:	Construction
+31-33:	Manufacturing
+42:	Wholesale trade
+44-45:	Retail trade
+48-49:	Transportation and warehousing
+51:	Information
+52:	Finance and insurance
+53:	Real estate
+54:	Professional, scientific, and technical services
+55:	Enterprise Management
+56:	Waste management services
+61:	Educational services
+62:	Health care and social assistance
+71:	Arts, entertainment, and recreation
+72:	Accommodation/Food services
+81:	Other
+
+Correlation Interpretation:
+
+0.00 - No Relationship
+0.30 - Weak
+0.50 - Moderate
+0.70 - Strong
+1.00 - Perfect
+
+
+
+
